@@ -1,0 +1,17 @@
+{
+    "name": "Geoabsensi",
+    "short_name": "Geoabsensi",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#004AAD",
+    "theme_color": "#004AAD",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "aic.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
